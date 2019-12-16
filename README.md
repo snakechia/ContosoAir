@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/SnakeAzureDevOpsDemo/ContosoAir/_apis/build/status/snakechia.ContosoAir?branchName=master)](https://dev.azure.com/SnakeAzureDevOpsDemo/ContosoAir/_build/latest?definitionId=1&branchName=master)
 
 
 # Microsoft.Github CI Demo
